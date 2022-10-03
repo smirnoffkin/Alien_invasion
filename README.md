@@ -8,9 +8,7 @@
 #### Control:
 
 >Move the ship with the ← and → arrows.
-
 >Shoot with the space bar
-
 >q - exit the game
 
 #### Dependencies
