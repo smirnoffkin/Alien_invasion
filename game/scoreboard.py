@@ -1,8 +1,11 @@
 import pygame.font
 from pygame.sprite import Group
+
 from ship import Ship
 
+
 class Scoreboard():
+
     def __init__(self, ai_game):
         self.ai_game = ai_game
         self.screen = ai_game.screen

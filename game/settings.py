@@ -1,4 +1,5 @@
 class Settings():
+
     def __init__(self):
         """Initialize the game's static settings."""
         # Screen settings

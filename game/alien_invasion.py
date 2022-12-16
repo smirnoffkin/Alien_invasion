@@ -1,6 +1,8 @@
 import sys
-import pygame
 from time import sleep
+
+import pygame
+
 from alien import Alien
 from bullet import Bullet
 from button import Button
@@ -11,6 +13,7 @@ from ship import Ship
 
 
 class AlienInvasion():
+
     def __init__(self):
         pygame.init()
         self.settings = Settings()
